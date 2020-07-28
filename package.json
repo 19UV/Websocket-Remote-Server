@@ -1,0 +1,15 @@
+{
+  "name": "websocket-ssh-server",
+  "version": "1.0.0",
+  "description": "A server which allows ssh-like control over a websocket connection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "19UV",
+  "license": "ISC",
+  "dependencies": {
+    "node-pty": "^0.9.0",
+    "ws": "^7.3.1"
+  }
+}
